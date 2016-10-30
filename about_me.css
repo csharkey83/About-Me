@@ -1,0 +1,53 @@
+
+body
+     {
+	background: #4169E1;
+	font-family: gorgia;
+
+     }
+
+h1
+     {
+	background: darkred;
+	border-radius: px;
+	box-shadow: 2px 2px 12px powederblue;
+	color: Cyan; 
+	font-size: 250%;
+	text-transform:uppercase;
+	text-align: center;
+     }
+
+h2
+     {
+	color:powderblue;
+	font-size: 150%;
+
+     }
+
+div.background
+    {
+	border: 2px solid black;
+ 
+    }
+
+div.transbox
+    {
+	margin: 10px;
+	border: 1px solid black;
+
+    }
+
+div.transbox p
+    { 
+	margin: 10px;
+	color: turquoise;
+	font-size: 125%;
+	text-align: center justify;
+    }
+
+a
+    {
+	color: yellow;
+	font-size: 125%;
+    }
+
