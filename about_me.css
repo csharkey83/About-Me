@@ -1,7 +1,7 @@
 
 body
      {
-	background: black;
+	background: #000000;
 	font-family: gorgia;
 
      }
@@ -42,7 +42,7 @@ div.transbox
 
 div.transbox p
     { 
-	background: black;
+	background: #000000;
 	margin: 20px;
 	color: turquoise;
 	font-size: 125%;
