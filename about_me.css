@@ -39,7 +39,7 @@ div.transbox
 
 div.transbox p
     { 
-	background-color: black;
+	background: black;
 	margin: 10px;
 	color: turquoise;
 	font-size: 125%;
