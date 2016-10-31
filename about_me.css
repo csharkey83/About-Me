@@ -1,7 +1,7 @@
 
 body
      {
-	background: #4169E1;
+	background: black;
 	font-family: gorgia;
 
      }
@@ -26,21 +26,24 @@ h2
 
 div.background
     {
-	 border: 2px solid black;
+	background: #4169E1;
+	border: 2px solid black;
  
     }
 
 div.transbox
     {
-	margin: 10px;
+	background: darkred;
+	margin: 20px;
 	border: 1px solid black;
 
     }
 
+
 div.transbox p
     { 
 	background: black;
-	margin: 10px;
+	margin: 20px;
 	color: turquoise;
 	font-size: 125%;
 	text-align: center justify;
